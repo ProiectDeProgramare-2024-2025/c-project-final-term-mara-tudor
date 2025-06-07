@@ -1,0 +1,6 @@
+chores
+2
+finish hw
+0
+do dishes
+1

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1747757025 source:c:\users\user\desktop\fmi\pp\todo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
